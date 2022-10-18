@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="![image](https://user-images.githubusercontent.com/66104474/196384990-981e8e64-a64e-4d6f-a495-264b6681b2be.png)" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/66104474/196384990-981e8e64-a64e-4d6f-a495-264b6681b2be.png)" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Jaming RF</h3>
   <p align="center">
