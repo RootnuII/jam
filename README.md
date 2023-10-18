@@ -4,7 +4,7 @@
   </a>
   <h3 align="center">Jaming RF</h3>
   <p align="center">
-    An awesome RF jaming projects using (attiny85) (RF TX)!
+    An awesome RF jaming projects using (attiny85) (RF TX)! NOT SURE IF IT WORKS LMAO
     <br />
     <br />
     <br />
